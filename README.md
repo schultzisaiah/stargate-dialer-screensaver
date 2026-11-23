@@ -1,6 +1,6 @@
 <h1 align="center">Stargate Dialer Screensaver</h1>
 
-<p align="center">The gate rooms of Stargate Command, Atlantis and Destiny, dialing by themselves on your Mac.</p>
+<p align="center">The gate rooms of Stargate Command, Atlantis, Destiny and Midway Station, dialing by themselves on your Mac.</p>
 
 <p align="center">
   <a href="https://github.com/schultzisaiah/stargate-dialer-screensaver/releases/latest"><b>Download for Mac</b></a>
@@ -12,18 +12,24 @@
   <img src="docs/screenshots/sgc.jpg" width="800" alt="The SGC's dialing computer with an incoming wormhole open: the gate's chevrons lit orange, a rippling blue event horizon reading Welcome, seven encoded symbols down the right, and gate telemetry on the left">
 </p>
 
-A screensaver made of three working dialing consoles from the shows: Stargate Command's computer from SG-1, the Atlantis gate room's screens, and the bridge display aboard Destiny. Each one runs on its own: it dials addresses from its address book, locks chevrons, opens wormholes, sends teams and probes through, and takes incoming wormholes, with its shield or iris going up when it should.
+A screensaver made of four working dialing consoles from the shows: Stargate Command's computer from SG-1, the Atlantis gate room's screens, the bridge display aboard Destiny, and Midway Station, the outpost halfway between the Milky Way and Pegasus. Each one runs on its own: it dials addresses from its address book, locks chevrons, opens wormholes, sends teams and probes through, and takes incoming wormholes, with its shield or iris going up when it should.
 
-Every few minutes, a console dials one of the others' homes, the way into the gate opens, and you step through: the wormhole's flight plays, and you arrive on the far side at the other console, which carries on from there. So it tours all three, starting on a different one each time.
+Every few minutes, a console dials one of the others' homes, the way into the gate opens, and you step through: the wormhole's flight plays, and you arrive on the far side at the other console, which carries on from there. So it tours all four, starting on a different one each time.
 
 <p align="center">
   <img src="docs/screenshots/atlantis.jpg" width="400" alt="The Atlantis console: a blue Pegasus gate with its chevrons lit white and an event horizon reading Welcome Atlantis, between magenta and blue neon panels">
   <img src="docs/screenshots/destiny.jpg" width="400" alt="The Destiny console: a turning SGU gate with an event horizon reading Welcome Destiny, a brass glyph wheel, a stellar chart, the ship's schematic and the FTL timer">
 </p>
 
+Midway Station has two gates, one for each galaxy, and reaches the other gates by way of the intergalactic gate bridge: 17 gates strung out across the void on each side, each passing travelers on to the next. Trips to and from Midway cross the bridge gate by gate, and the consoles at either end follow travelers all the way.
+
+<p align="center">
+  <img src="docs/screenshots/midway.jpg" width="800" alt="The Midway Station console: its Milky Way gate (orange chevrons) and Pegasus gate (ice-blue chevrons) both open, the gate bridge lit end to end across the top from Earth to Atlantis with travelers on it, and each gate's tracker following its travelers gate by gate">
+</p>
+
 ## Install
 
-1. [Download](https://github.com/schultzisaiah/stargate-dialer-screensaver/releases/latest) `Stargate-screensaver.zip` (muted), or `Stargate-screensaver-with-sound.zip` if you'd like the gate's sounds too.
+1. [Download](https://github.com/schultzisaiah/stargate-dialer-screensaver/releases/latest) `Stargate-screensaver.zip`.
 2. Open the zip and double-click `Stargate.saver`. Choose to install it for you or for all users.
 3. Pick **Stargate** in System Settings → Screen Saver.
 
